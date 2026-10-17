@@ -1,12 +1,12 @@
 Package: com.ps.ytabgoodies
 Name: YTABGoodies
-Version: 1.0.0
+Version: 1.0.7
 Architecture: iphoneos-arm
-Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Description: Enforces useful YouTube features that are otherwise 50/50 available to you.
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.ps.youremembercaption, com.ps.ytsystemappearance, com.ps.youarethere
+Conflicts: com.ps.ytsystemappearance, com.ps.youarethere
 Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
